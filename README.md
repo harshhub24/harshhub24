@@ -19,4 +19,4 @@ Currently in Class 10, I love building projects that challenge me and help me le
 - **Other Mini Projects** – Small Python & web experiments to improve my coding skills  
 
 ## 📫 Connect with me
-- GitHub: [harsh-dev-hub](https://github.com/harsh-dev-hub)  
+- GitHub: [harshhub24](https://github.com/harshhub24)  
