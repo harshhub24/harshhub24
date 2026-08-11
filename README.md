@@ -15,12 +15,20 @@
 
 ### 🧑‍💻 About Me
 
-I'm a 15-year-old Class 10 student who builds production-style software for fun — not just tutorials. I like taking projects from idea to a fully working, deployed system: backend, database, frontend, and mobile, end to end.
+I'm a 15-year-old Class 10 student who builds full-stack software for fun — not just tutorials. I use AI-assisted, "vibe coding" workflows to go from idea to a fully working system: backend, database, frontend, and mobile, end to end.
 
 - 🔭 Currently building **full-stack platforms** (e-commerce, remote device management, mobile admin apps)
 - 🌱 Learning **AI/ML basics**, **Django**, and advanced Python
-- 💡 I care about clean project structure and writing production-ready code, not just "make it work" code
+- 💡 I focus on architecture, system design, and understanding every part of what I ship — not just typing code
 - ⚡ Fun fact: I balance board exam prep with shipping real software
+
+---
+
+### 🤖 How I Build
+
+I build using **AI-assisted development (Claude, ChatGPT)** as part of my workflow — I drive the architecture, feature decisions, debugging, and integration, while AI helps me write and iterate on code faster. This lets me tackle full-stack systems (auth, databases, APIs, mobile apps) at 15 that would normally take years of solo experience to reach.
+
+I see this as a real, growing skill: knowing what to build, how to structure it, how to prompt effectively, and how to review/debug AI-generated code — not just copy-pasting.
 
 ---
 
