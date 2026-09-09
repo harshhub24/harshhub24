@@ -1,38 +1,62 @@
-<h1 align="center">Hi there, I'm Harsh 👋</h1>
-<h3 align="center">Aspiring Software Developer | Full-Stack & Systems Enthusiast</h3>
+<h1 align="center">Hi, I'm Harsh 👋</h1>
+<h3 align="center">AI-Assisted Developer | Vibe Coder | Systems Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=550&lines=Building+full-stack+apps+while+in+Class+10;Python+%7C+Flask+%7C+React+%7C+Android;Learning+by+shipping+real+projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+real+software+with+AI-assisted+development;Python+%7C+Flask+%7C+React+%7C+React+Native;Turning+ideas+into+working+systems;Learning+by+building%2C+testing%2C+and+shipping" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/harshhub24">
     <img src="https://komarev.com/ghpvc/?username=harshhub24&label=Profile%20Views&color=6c63ff&style=flat" alt="Profile views" />
   </a>
+  <img src="https://img.shields.io/github/followers/harshhub24?label=Followers&style=flat&color=6c63ff" alt="GitHub followers" />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-I'm a 15-year-old Class 10 student who builds full-stack software for fun — not just tutorials. I use AI-assisted, "vibe coding" workflows to go from idea to a fully working system: backend, database, frontend, and mobile, end to end.
+I'm a Class 10 student interested in **software development, systems, and AI-assisted coding**. I use modern AI tools to turn ideas into working software through a **vibe coding workflow** — combining AI-generated code with my own planning, prompting, architecture decisions, testing, debugging, and integration.
 
-- 🔭 Currently building **full-stack platforms** (e-commerce, remote device management, mobile admin apps)
-- 🌱 Learning **AI/ML basics**, **Django**, and advanced Python
-- 💡 I focus on architecture, system design, and understanding every part of what I ship — not just typing code
-- ⚡ Fun fact: I balance board exam prep with shipping real software
+I don't see AI as a replacement for understanding software. My goal is to learn how the systems I build actually work and become better at directing, reviewing, and improving AI-generated code.
 
----
-
-### 🤖 How I Build
-
-I build using **AI-assisted development (Claude, ChatGPT)** as part of my workflow — I drive the architecture, feature decisions, debugging, and integration, while AI helps me write and iterate on code faster. This lets me tackle full-stack systems (auth, databases, APIs, mobile apps) at 15 that would normally take years of solo experience to reach.
-
-I see this as a real, growing skill: knowing what to build, how to structure it, how to prompt effectively, and how to review/debug AI-generated code — not just copy-pasting.
+- 🚀 Building real projects instead of only following tutorials
+- 🤖 Using **AI-assisted development** and vibe coding as part of my workflow
+- 🧠 Exploring **software architecture, APIs, databases, and system design**
+- 🌱 Learning **Python, Flask, Django, React, React Native, and AI/ML fundamentals**
+- 🔧 Interested in understanding, debugging, and improving the systems I build
 
 ---
 
-### 🛠️ Tech Stack
+### 🤖 My Development Workflow
+
+My approach is best described as **AI-assisted development / vibe coding**.
+
+```text
+Idea
+  ↓
+Plan & Architecture
+  ↓
+Prompt AI
+  ↓
+Generate & Iterate
+  ↓
+Run & Test
+  ↓
+Debug & Review
+  ↓
+Integrate & Refine
+  ↓
+Ship 🚀
+```
+
+I use tools such as **ChatGPT and Claude** to generate, refactor, explain, and iterate on code. I remain responsible for deciding **what to build, how the pieces should fit together, what needs to change, and whether the generated solution actually works**.
+
+For me, vibe coding isn't just copy-pasting AI output. It's learning to communicate technical requirements clearly, reason about architecture, inspect generated code, troubleshoot problems, and continuously improve the result.
+
+---
+
+### 🛠️ Technologies I Work With
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -42,34 +66,35 @@ I see this as a real, growing skill: knowing what to build, how to structure it,
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 <p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ---
 
-### ⚡ Featured Projects
+### ⚡ Projects & Experiments
 
-| Project | Description |
+| Project | What I'm Exploring |
 |---|---|
-| 🔐 **[File & Text Encryptor](https://github.com/harshhub24)** | Secure drag & drop tool for encrypting files and text |
-| 🛍️ **NS Cosmetic (Naari Shringaar)** | Full-stack Flask e-commerce platform with dual-backend DB layer (PostgreSQL + encrypted SQLite) |
-| 🖥️ **EchoDesk** | Remote device management system — Flask backend, Python agent, PySide6 desktop controller |
-| 🌐 **EchoX Browser Backend** | Django REST Framework backend for an Android browser — JWT auth, sync, proxy management, admin RBAC |
-| 📱 **EchoStudy (Mobile)** | React Native/Expo study management app, ported from a full web codebase |
+| 🔐 **[File & Text Encryptor](https://github.com/harshhub24/File-Text-Encryptor)** | File and text encryption with a simple user-focused interface |
+| 🖥️ **[EchoDesk](https://github.com/harshhub24/EchoDesk)** | Remote device management concepts with a Python-based system architecture |
+| 🧠 **[NexOS](https://github.com/harshhub24/NexOS)** | Exploring operating-system and low-level software concepts |
+| 🌌 **[GalaxyStorm](https://github.com/harshhub24/GalaxyStorm)** | Building and experimenting with interactive software projects |
+| 🕵️ **[Steganography](https://github.com/harshhub24/steganography)** | Exploring information hiding and security-related concepts |
+| 📊 **[Hacker Dashboard](https://github.com/harshhub24/hacker-dashboard)** | Experimenting with dashboard UI and developer-oriented interfaces |
 
-*(Pin your best repos on GitHub for these to show up automatically at the top of your profile!)*
+> Most of my projects are built through an AI-assisted workflow, with the goal of learning by experimenting, debugging, and iterating on real software.
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Activity
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=harshhub24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -86,12 +111,30 @@ I see this as a real, growing skill: knowing what to build, how to structure it,
 
 ---
 
-### 📫 Connect with Me
+### 🎯 What I'm Working Toward
+
+I want to become a developer who can **turn ideas into real systems**, understand the technology underneath them, and use AI effectively without becoming dependent on blindly generated code.
+
+Right now, I'm focused on getting better at:
+
+- 🏗️ Software architecture & system design
+- 🔌 APIs, authentication & databases
+- 🐍 Python backend development
+- 📱 Web & mobile application development
+- 🤖 AI-assisted engineering workflows
+- 🧪 Testing, debugging & code review
+
+---
+
+### 📫 Connect
 
 <p align="center">
   <a href="https://github.com/harshhub24">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://harshhub24.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
 </p>
 
-<p align="center"><i>⭐️ From <a href="https://github.com/harshhub24">harshhub24</a> — building, breaking, and rebuilding one project at a time.</i></p>
+<p align="center"><i>Building with AI. Learning the systems. Shipping the ideas. 🚀</i></p>
